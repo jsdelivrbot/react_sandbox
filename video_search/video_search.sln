@@ -21,7 +21,6 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "React_Sandbox", ".", "{C460
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "56153"
-		SlnRelativePath = "..\React_Sandbox\"
 	EndProjectSection
 EndProject
 Global
